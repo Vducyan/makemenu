@@ -1,0 +1,9 @@
+Package: dhieu
+Name: dhieu
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Mod Menu for all game support rootless,full,less
+Maintainer: vhax
+Author: ldvquang
+Section: Tweaks
